@@ -40,7 +40,7 @@
     "@types/tmp": "0.0.33",
     "@types/update-notifier": "2.5.0",
     "prettier": "1.16.4",
-    "rimraf": "2.6.3",
+    "rimraf": "3.0.0",
     "ts-node": "8.0.2",
     "tslint": "5.12.1",
     "tslint-config-prettier": "1.18.0",
