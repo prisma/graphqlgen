@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "chalk": "^2.4.1",
-    "execa": "^1.0.0",
+    "execa": "^2.0.0",
     "inquirer": "^6.2.0",
     "meow": "^5.0.0",
     "ora": "^3.0.0",
