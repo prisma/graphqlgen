@@ -59,19 +59,19 @@
   "devDependencies": {
     "@types/benchmark": "1.0.31",
     "@types/camelcase": "4.1.0",
-    "@types/graphql": "14.0.5",
-    "@types/jest": "24.0.5",
-    "@types/js-yaml": "3.12.0",
+    "@types/graphql": "14.2.3",
+    "@types/jest": "24.0.18",
+    "@types/js-yaml": "3.12.1",
     "@types/mkdirp": "0.5.2",
-    "@types/node": "10.12.25",
-    "@types/prettier": "1.15.2",
+    "@types/node": "10.14.19",
+    "@types/prettier": "1.18.2",
     "@types/rimraf": "2.0.2",
-    "@types/yargs": "12.0.8",
+    "@types/yargs": "12.0.13",
     "benchmark": "2.1.4",
-    "flow-bin": "0.86.0",
+    "flow-bin": "0.108.0",
     "graphql-tag": "2.10.1",
     "jest": "23.6.0",
-    "ts-jest": "24.0.0",
-    "tslint": "5.12.1"
+    "ts-jest": "24.1.0",
+    "tslint": "5.20.0"
   }
 }

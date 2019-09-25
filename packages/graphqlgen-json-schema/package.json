@@ -13,12 +13,12 @@
     "t": "jest"
   },
   "devDependencies": {
-    "@types/jest": "24.0.5",
-    "ajv": "6.9.0",
+    "@types/jest": "24.0.18",
+    "ajv": "6.10.2",
     "jest": "23.6.0",
     "js-yaml": "3.12.1",
-    "ts-jest": "24.0.0",
-    "typescript": "3.3.3"
+    "ts-jest": "24.1.0",
+    "typescript": "3.6.3"
   },
   "repository": {
     "type": "git",

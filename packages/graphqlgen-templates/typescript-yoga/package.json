@@ -11,9 +11,9 @@
   },
   "devDependencies": {
     "graphqlgen": "0.5.1",
-    "nodemon": "1.18.9",
-    "ts-node": "8.0.2",
-    "typescript": "3.3.3"
+    "nodemon": "1.19.2",
+    "ts-node": "8.4.1",
+    "typescript": "3.6.3"
   },
   "license": "MIT"
 }
