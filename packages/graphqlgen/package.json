@@ -66,7 +66,7 @@
     "@types/node": "10.12.25",
     "@types/prettier": "1.15.2",
     "@types/rimraf": "2.0.2",
-    "@types/yargs": "12.0.8",
+    "@types/yargs": "13.0.3",
     "benchmark": "2.1.4",
     "flow-bin": "0.86.0",
     "graphql-tag": "2.10.1",
